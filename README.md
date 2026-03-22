@@ -42,7 +42,7 @@ This project is a collaborative engineering effort:
 
 * **Chitransh Sahrawat** ([@chitranshsahrawat](https://github.com/chitranshsahrawat))  
     *Role:* Lead Developer, Perception Engine & Mathematical Modeling.
-* **Aditya** ((https://github.com/adityatiwari8630))  
+* **Aditya Tiwari** ([@Adityatiwari86](https://github.com/adityatiwari8630))  
     *Role:* System Validation, UI/UX Design & Data Processing.
 
 ---
